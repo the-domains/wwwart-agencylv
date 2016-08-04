@@ -6,9 +6,10 @@ color:
   saturation: 0.34328148583881557
   rhythmicContrast: 0.3525042429100722
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: www.art-agency.lv
+description: Interior Design
